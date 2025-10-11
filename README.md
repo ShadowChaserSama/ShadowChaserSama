@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm Əli Zülbalayev</h1>
-<h3 align="center">💻 Full Stack Developer | Python & JavaScript Enthusiast | Building Modern Web Solutions</h3>
+<h3 align="center">💻 Full Stack Developer | Python & C/C++ Enthusiast | Building Modern Web Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Software+Engineer;Python+%26+C%2FC%2B%2B+Programmer;Lifelong+Learner+%7C+Creator" alt="Typing SVG" />
@@ -59,12 +59,25 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShadowChaserSama&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowChaserSama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaserSama&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-  
+<a href="https://github.com/ShadowChaserSama">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShadowChaserSama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaserSama&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowChaserSama&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
