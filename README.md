@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 <div align="center">
   
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZulbalayev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZulbalayev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowChaserSama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaserSama&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
@@ -43,13 +43,13 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-  <a href="https://github.com/AliZulbalayev" target="_blank">
+  <a href="https://github.com/ShadowChaserSama" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/AliZulbalayev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:alizulbalayev@gmail.com" target="_blank">
+  <a href="mailto:alizulbalayev84@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
