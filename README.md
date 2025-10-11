@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Əli Zülbalayev</h1>
-<h3 align="center">💻 Passionate Developer | Python & Web Enthusiast | Creative Thinker</h3>
+<h3 align="center">💻 Full Stack Developer | Python & JavaScript Enthusiast | Modern Web Creator</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎯 I'm focused on **Python, Web Development**, and **Automation Projects**  
-- 🚀 I love building **useful, minimal, and smart** projects  
-- 💡 Interested in **AI, UI/UX, and full-stack development**  
-- 📚 Constantly learning and improving my coding skills  
-- 🧠 Motto: *“Build. Learn. Repeat.”*  
+- 🎯 I'm a **Full Stack Developer** passionate about building fast, modern, and responsive web applications  
+- 💻 Skilled in both **Frontend (React, Bootstrap)** and **Backend (Python, Django, Node.js)**  
+- ⚙️ I enjoy turning ideas into functional, user-friendly digital experiences  
+- 🚀 Always learning new technologies to stay ahead in the development world  
+- 🧠 Motto: *“Code with purpose, design with passion.”*  
 
 ---
 
@@ -19,14 +19,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🧩 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -43,13 +46,13 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-  <a href="https://github.com/ShadowChaserSama" target="_blank">
+  <a href="https://github.com/AliZulbalayev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/AliZulbalayev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:alizulbalayev84@gmail.com" target="_blank">
+  <a href="mailto:alizulbalayev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -57,9 +60,9 @@
 ---
 
 ### ✨ Fun Fact
-> I love creating **clean, beautiful, and useful** projects that make learning and coding more enjoyable.  
+> I enjoy building projects that connect creativity and functionality — from backend logic to frontend design.  
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *If you like my work, don’t forget to star my repositories!*
 
 ---
 
