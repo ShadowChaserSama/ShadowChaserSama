@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm Əli Zülbalayev</h1>
-<h3 align="center">💻 Full Stack Developer | Python & C/C++ Enthusiast | Building Modern Web Solutions</h3>
+<h3 align="center">💻 Full Stack Developer | Python & JavaScript Enthusiast | Building Modern Web Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Software+Engineer;Python+%26+C%2FC%2B%2B+Programmer;Lifelong+Learner+%7C+Creator" alt="Typing SVG" />
@@ -62,10 +62,10 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZulbalayev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliZulbalayev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowChaserSama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowChaserSama&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliZulbalayev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowChaserSama&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,13 +73,13 @@
 
 ### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://github.com/AliZulbalayev" target="_blank">
+  <a href="https://github.com/ShadowChaserSama" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/AliZulbalayev" target="_blank">
+  <a href="https://www.linkedin.com/in/əli-zülbalayev-b6a053385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:alizulbalayev@gmail.com" target="_blank">
+  <a href="mailto:alizulbalayev84@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
