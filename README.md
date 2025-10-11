@@ -50,7 +50,7 @@
   <a href="https://github.com/ShadowChaserSama" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/AliZulbalayev" target="_blank">
+  <a href="https://www.linkedin.com/in/əli-zülbalayev-b6a053385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alizulbalayev84@gmail.com" target="_blank">
