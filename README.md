@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm Əli Zülbalayev</h1>
-<h3 align="center">💻 Full Stack Developer | Python & C/C++ Enthusiast | Building Modern Web Solutions</h3>
+<h3 align="center">💻 Full Stack Developer | Python & JavaScript Enthusiast | Building Modern Web Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+Software+Engineer;Python+%26+C%2FC%2B%2B+Programmer;Lifelong+Learner+%7C+Creator" alt="Typing SVG" />
