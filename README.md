@@ -103,3 +103,7 @@
 > I believe every line of code can be art — clean, logical, and creative at once.
 
 ⭐ *If you enjoy my projects, please consider leaving a star — it truly motivates me!*
+
+<p align='center'>
+  <img src='https://auto.creavite.co/api/out/utVHaTNAfSnlt40qmb_standard.webm' />
+</p>
