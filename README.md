@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm Əli Zülbalayev</h1>
+<h1 align="center">👋 Hey there, I'm Əli</h1>
 <h3 align="center">💻 Full Stack Developer | Python & JavaScript Enthusiast | Building Modern Web Solutions</h3>
 
 <p align="center">
